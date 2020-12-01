@@ -1,6 +1,7 @@
 <main class="col-md" style="margin-bottom: 845px; margin-top: 0px;">
 <a data-id="" id="reading-levels" style="top: 0px;"></a><h2><a data-id="" href="#reading-levels">Readability from Harvard CS50 Course</a></h2>
-                 
+
+<p>Solution is in <code class="language-plaintext highlighter-rouge">readability.c</code></p>                 
 
 <p>Implement a program that computes the approximate grade level needed to comprehend some text, per the below.</p>
 
