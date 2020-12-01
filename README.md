@@ -165,20 +165,3 @@ Text: When he was nearly thirteen, my brother Jem got his arm badly broken at th
   <li data-marker="*"><span class="fa-li"><i class="fas fa-circle"></i></span><code class="language-plaintext highlighter-rouge">It was a bright cold day in April, and the clocks were striking thirteen. Winston Smith, his chin nuzzled into his breast in an effort to escape the vile wind, slipped quickly through the glass doors of Victory Mansions, though not quickly enough to prevent a swirl of gritty dust from entering along with him.</code> (Grade 10)</li>
   <li data-marker="*"><span class="fa-li"><i class="fas fa-circle"></i></span><code class="language-plaintext highlighter-rouge">A large class of computational problems involve the determination of properties of graphs, digraphs, integers, arrays of integers, finite families of finite sets, boolean formulas and elements of other countable domains.</code> (Grade 16+)</li>
 </ul>
-
-<p>Execute the below to evaluate the correctness of your code using <code class="language-plaintext highlighter-rouge">check50</code>. But be sure to compile and test it yourself as well!</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>check50 cs50/problems/2020/x/readability
-</code></pre></div></div>
-
-<p>Execute the below to evaluate the style of your code using <code class="language-plaintext highlighter-rouge">style50</code>.</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>style50 readability.c
-</code></pre></div></div>
-
-<a data-id="" id="how-to-submit" style="top: 0px;"></a><h2><a data-id="" href="#how-to-submit">How to Submit</a></h2>
-
-<p>Execute the below, logging in with your GitHub username and password when prompted. For security, you’ll see asterisks (<code class="language-plaintext highlighter-rouge">*</code>) instead of the actual characters in your password.</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>submit50 cs50/problems/2020/x/readability
-</code></pre></div></div>
