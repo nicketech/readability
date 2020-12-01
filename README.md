@@ -1,5 +1,5 @@
 <main class="col-md" style="margin-bottom: 845px; margin-top: 0px;">
-<a data-id="" id="reading-levels" style="top: 0px;"></a><h2><a data-id="" href="#reading-levels">Readability by CS50 from Harvard</a></h2>
+<a data-id="" id="reading-levels" style="top: 0px;"></a><h2><a data-id="" href="#reading-levels">Readability from Harvard CS50</a></h2>
                  
 
 <p>Implement a program that computes the approximate grade level needed to comprehend some text, per the below.</p>
